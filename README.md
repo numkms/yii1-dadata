@@ -1,2 +1,2 @@
-# yii1-dadata
+# Yii DaData 
 Yii1 dadata wrapper + widgets
